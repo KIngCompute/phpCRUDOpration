@@ -6,6 +6,7 @@
     </head>
     <body>
     <center><h1>Product Information</h1>
+        <hr>
         <a href="index.php">Insert Product</a>|
         <hr>   
     <?php 
